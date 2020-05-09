@@ -1,0 +1,3 @@
+Hi, This is my first text using sublime editor for git.
+
+I think It should work fine.
