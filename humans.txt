@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Navneet Negi -- Developer -- @navnitnegi
 
 # THANKS
 
