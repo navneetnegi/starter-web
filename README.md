@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-Adding copyright section
+Adding copyright section here with some new guidelines
