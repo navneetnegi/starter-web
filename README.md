@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-Adding copyright section here with some new guidelines. All right reserved
+Adding copyright section here with some new guidelines. All right reserved not limited to text only
 
 ##How to contribute
 
